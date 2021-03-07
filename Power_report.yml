@@ -1,0 +1,9 @@
+# Power focused MunkiReport Dashboard
+
+display_name: Power Report
+hotkey: 
+
+0:
+    power_battery_health:  {  }
+    power_battery_condition: {  }
+    

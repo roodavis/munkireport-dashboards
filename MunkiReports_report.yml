@@ -1,0 +1,13 @@
+# MunkiReports focused MunkiReport Dashboard
+
+display_name: MunkiReports Report
+hotkey: 
+
+0:
+    munkireportinfo: {  }
+    munkireportinfo_versions: {  }
+    munkireportinfo_protocol: {  }
+1:
+    
+    munkireportinfo_errors: {  }
+    munkireportinfo_warnings: {  }

@@ -1,0 +1,37 @@
+# A MunkiReport Dashboard focused on the hardware replacement cycle
+
+display_name: Hardware Replacement
+hotkey: 
+
+0:
+    client: {  }
+    gpu_model: {  }
+1:
+    hardware_age: {  }
+    supported_os:  {  }
+2:
+    hardware_warranty:  {  }
+    warranty:  {  }
+3:
+    smart_status: {  }
+
+4:
+
+    power_battery_condition: {  }
+    power_battery_health: {  }
+5:
+
+6:
+    installed_memory: {  }
+7:
+8:
+
+    memory: {  }
+9:
+
+10:
+    fan_temps_bad_fans:  {  }
+    fan_temps_cpu_hot:  {  }
+    fan_temps_fans_set:  {  }
+    fan_temps_gpu_overtemp:  {  }
+

@@ -1,0 +1,26 @@
+# SoftwareUpdate focused MunkiReport Dashboard
+
+display_name: SoftwareUpdate Report
+hotkey: 
+
+0:
+    softwareupdate_automaticcheckenabled: {  }
+    softwareupdate_automaticdownload: {  }
+    softwareupdate_auto_update:  {  }
+
+1:
+    softwareupdate_auto_update_restart_required: {  }
+    softwareupdate_criticalupdateinstall: {  }
+    softwareupdate_configdatainstall: {  }
+    softwareupdate_last_session_successful: {  }
+2:
+    softwareupdate_ignored_updates: {  }
+    softwareupdate_pending_recommended_updates: {  }
+    softwareupdate_seed: {  }
+    softwareupdate_mrt_version: {  }
+3:
+    softwareupdate_xprotect_version: {  }
+    softwareupdate_gatekeeper_disk_version: {  }
+    softwareupdate_gatekeeper_version: {  }
+    softwareupdate_kext_exclude_version: {  }
+        

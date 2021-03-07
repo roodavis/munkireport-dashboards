@@ -1,0 +1,7 @@
+# Bluetooth focused MunkiReport Dashboard
+
+display_name: Bluetooth
+
+0:
+    bluetooth_battery:  {  }
+    bluetooth_power_state: {  }

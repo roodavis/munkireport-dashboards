@@ -1,0 +1,13 @@
+# FileVault focused MunkiReport Dashboard
+
+display_name: FileVault Report
+hotkey: 
+
+0:
+    filevault_status:  {  }
+    filevault: {  }
+    institutional_recovery_key: {  }
+    auth_restart_support: {  }
+    bootstraptoken_escrowed: {  }
+    bootstraptoken_supported: {  }
+    conversion_state: {  }

@@ -1,0 +1,9 @@
+# UserAccount focused MunkiReport Dashboard
+
+display_name: User Accounts
+hotkey: 
+0:
+    users_admins: {  }
+    users_local_admins: {  }
+    users_screensharing: {  }
+    users_ssh: {  }

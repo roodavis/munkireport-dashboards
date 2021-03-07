@@ -1,0 +1,10 @@
+# Client focused MunkiReport Dashboard
+
+display_name: Client Report
+
+0:
+    registered_clients:  {  }
+    client: {  }
+    filevault: {  }
+    os: {  }
+    osbuild: {  }

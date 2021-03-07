@@ -1,0 +1,12 @@
+# Fans, Temps and SMC's focused MunkiReport Dashboard
+
+display_name: Fans, Temps and SMC's Report
+hotkey:
+
+0:
+    fan_temps_bad_fans:  {  }
+    fan_temps_cpu_hot: {  }
+    fan_temps_fans_set: {  }
+    fan_temps_gpu_overtemp: {  }
+    fan_temps_odd_inserted: {  }
+    

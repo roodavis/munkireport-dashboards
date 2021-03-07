@@ -1,0 +1,9 @@
+# Directory Services focused MunkiReport Dashboard
+
+display_name: Directory Services Report
+
+0:
+    duplicated_computernames:  {  }
+    bound_to_ds: {  }
+    modified_computernames: {  }
+    

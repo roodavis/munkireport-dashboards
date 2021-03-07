@@ -1,0 +1,9 @@
+# MDM focused MunkiReport Dashboard
+
+display_name: MDM Report
+hotkey: 
+
+0:
+    mdm_status:  {  }
+    mdm_enrolled_via_dep: {  }
+    user_approved_status: {  }

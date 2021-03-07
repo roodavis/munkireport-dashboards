@@ -1,0 +1,10 @@
+# SMART focused MunkiReport Dashboard
+
+display_name: SMART Stats Report
+hotkey: 
+
+0:
+    smart_overall_health_test:  {  }
+    smart_status: {  }
+    ssd_service_program: {  }
+   

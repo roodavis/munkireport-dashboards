@@ -1,0 +1,14 @@
+# Network focused MunkiReport Dashboard
+
+display_name: Network Report
+hotkey: 
+
+0:
+    network_location:  {  }
+    wifi_networks: {  }
+    
+1:
+    network_shares: {  }
+    network_vlan: {  }
+    wifi_state: {  }
+    

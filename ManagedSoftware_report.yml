@@ -1,0 +1,22 @@
+# Managed Software focused MunkiReport Dashboard
+
+display_name: Managed Software Report
+hotkey: 
+
+0:
+    munki:  {  }
+    munki_versions: {  }
+    munkiinfo_munkiprotocol: {  }
+1:
+    get_failing: {  }
+    pending_munki: {  }
+    pending_removals_munki: {  }
+    manifests: {  }
+2: 
+    pending: {  }
+    pending_apple: {  }
+3:
+    munki_errors: {  }
+    munki_warnings: {  }
+
+

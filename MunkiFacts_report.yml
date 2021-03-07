@@ -1,0 +1,7 @@
+# MunkiFacts focused MunkiReport Dashboard
+
+display_name: MunkiFacts
+hotkey: 
+
+0:
+    munki_facts:  {  }

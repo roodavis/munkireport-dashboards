@@ -1,0 +1,15 @@
+# ARD focused MunkiReport Dashboard
+
+display_name: ARD
+hotkey: 
+
+0:
+    ard_directory_login:  {  }
+    ard_allow_all_local_users: {  }
+    
+1:
+    ard_vnc_enabled: {  }
+    ard_screensharing_request_permission: {  }
+    ard_load_menu_extra: {  }
+    
+    

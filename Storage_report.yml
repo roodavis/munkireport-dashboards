@@ -1,0 +1,14 @@
+# Storage focused MunkiReport Dashboard
+
+display_name: Storage Report
+hotkey:
+
+0:
+    disk_type:  {  }
+    disk_report: {  }
+    filesystem_type: {  }
+1:
+    filevault: {  }
+    filevault_status: {  }
+    smart_status: {  }
+    smart_overall_health_test: {  }

@@ -1,0 +1,8 @@
+# Printer focused MunkiReport Dashboard
+
+display_name: Printer Report
+hotkey: 
+
+0:
+    printer:  {  }
+    

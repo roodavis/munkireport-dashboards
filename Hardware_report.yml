@@ -1,0 +1,16 @@
+# Hardware focused MunkiReport Dashboard
+
+display_name: Hardware Report
+hotkey: 
+
+0:
+    installed_memory:  {  }
+    memory: {  }
+    external_displays_count: {  }
+    hardware_basemodel: {  }
+    hardware_model: {  }
+    hardware_type: {  }
+    hardware_age: {  }
+    hardware_warranty: {  }
+    smart_status: {  }
+    smart_overall_health_test: {  }

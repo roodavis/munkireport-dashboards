@@ -1,0 +1,8 @@
+# USB focused MunkiReport Dashboard
+
+display_name: USB Report
+hotkey: 
+
+0:
+    usb_devices: {  }
+    usb_types: {  }
