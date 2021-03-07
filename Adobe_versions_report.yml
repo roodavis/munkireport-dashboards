@@ -1,0 +1,43 @@
+# Applications focused MunkiReport Dashboard
+
+display_name: Adobe Applications Version Report
+hotkey: 
+
+0:
+    app1: {appName: "Adobe Acrobat", widget: "app"}
+    app2: {appName: "Adobe Acrobat Reader DC", widget: "app"}
+    app25: {appName: "Creative Cloud", widget: "app"}
+
+1:
+    app3: {appName: "Adobe Dreamweaver CC 2018", widget: "app"}
+    app4: {appName: "Adobe Dreamweaver 2020", widget: "app"}
+    app5: {appName: "Adobe Dreamweaver 2021", widget: "app"}
+2:
+    app6: {appName: "Adobe Illustrator", widget: "app"}
+    app7: {appName: "Adobe InDesign CC 2018", widget: "app"}
+    app8: {appName: "Adobe InDesign 2020", widget: "app"}
+3:
+    app9: {appName: "Adobe Photoshop CC 2018", widget: "app"}
+    app11: {appName: "Adobe Photoshop 2020", widget: "app"}
+    app12: {appName: "Adobe Photoshop 2021", widget: "app"}
+4:
+    app13: {appName: "Adobe Premiere Pro CC 2018", widget: "app"}
+    app14: {appName: "Adobe Premiere Pro 2020", widget: "app"}
+    app15: {appName: "Adobe Premiere Pro 2021", widget: "app"}
+5:
+    app16: {appName: "Adobe Animate 2021", widget: "app"}
+    app17: {appName: "Adobe Audition 2020", widget: "app"}
+    app18: {appName: "Adobe Character Animator 2021", widget: "app"}
+6:
+    app16: {appName: "Adobe Dimension", widget: "app"}
+    app17: {appName: "Adobe InCopy 2021", widget: "app"}
+    app18: {appName: "Adobe Lightroom", widget: "app"}
+7:
+    app19: {appName: "Adobe Lightroom Classic", widget: "app"}
+    app20: {appName: "Adobe Media Encoder 2020", widget: "app"}
+    app21: {appName: "Adobe Character Prelude 2020", widget: "app"}
+8:
+    app22: {appName: "Adobe Premiere Rush", widget: "app"}
+    app23: {appName: "Adobe UXP Developer Tool", widget: "app"}
+    app24: {appName: "Adobe XD", widget: "app"}
+              
