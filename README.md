@@ -1,5 +1,5 @@
 # munkireport-dashboards
-My attempt to give back to the community that keeps me sane.
+This my attempt to give back to the community that keeps me sane.
 
 Customizable Dashboards (https://github.com/munkireport/munkireport-php/wiki/Dashboards) were added to MunkiReport(https://github.com/munkireport/munkireport-php) in version 4.0 and give admins the ability to have an unlimited number of customized views with particular widgets for different reporting needs.
 
