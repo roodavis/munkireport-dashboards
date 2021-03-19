@@ -14,4 +14,4 @@ hotkey:
     hardware_warranty: {  }
     smart_status: {  }
     smart_overall_health_test: {  }
-    munki_fact: {  }
+    munki_facts: {  }
