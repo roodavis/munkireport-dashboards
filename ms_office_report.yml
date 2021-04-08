@@ -1,0 +1,27 @@
+# Microsoft Office focused MunkiReport Dashboard
+
+display_name: Microsoft Office
+hotkey: m
+
+0:
+    ms_excel_generation: {  }
+    ms_word_generation: {  }
+    ms_powerpoint_generation: {  }
+    ms_outlook_generation: {  }
+    ms_onenote_generation: {  }
+
+1:
+    ms_how_to_check: {  }
+    ms_license_mismatch: {  }
+    ms_license_type: {  }
+    ms_mau_channel: {  }
+    ms_msupdate_check_enabled: {  }
+
+2:
+    ms_excel_mas: {  }
+    ms_onedrive_mas: {  }
+    ms_onenote_mas: {  }
+    ms_outlook_mas: {  }
+    ms_powerpoint_mas: {  }
+    ms_remote_desktop_mas: {  }
+    ms_word_mas: {  }
